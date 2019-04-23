@@ -52,5 +52,8 @@ public class Student {
 	public void eat() {
 		System.out.println("eat(234yui)");
 	}
+	public void xi(){
+	      System.out.println("xi()");	
+	}
 
 }
