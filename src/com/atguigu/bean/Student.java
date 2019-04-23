@@ -44,5 +44,7 @@ public class Student {
 	public String toString() {
 		return "Student [id=" + id + ", name=" + name + ", age=" + age + "]";
 	}
-
+public void eat(){
+System.out.println("eat(234yui)");	
+}
 }
