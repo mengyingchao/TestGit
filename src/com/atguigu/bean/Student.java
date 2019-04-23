@@ -52,8 +52,13 @@ public class Student {
 	public void eat() {
 		System.out.println("eat(234yui)");
 	}
+
 	public void zou() {
 		System.out.println("zou()");
+	}
+	public void xi(){
+	      System.out.println("xi()");	
+
 	}
 
 }
