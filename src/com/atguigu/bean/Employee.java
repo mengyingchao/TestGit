@@ -48,5 +48,6 @@ public class Employee {
 	public void eat() {
 
 		System.out.println("eat()");
+		System.out.println("eat(234yui)");
 	}
 }
