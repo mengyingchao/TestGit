@@ -44,5 +44,7 @@ public class Employee {
 	public String toString() {
 		return "Employee [id=" + id + ", name=" + name + ", age=" + age + "]";
 	}
-
+     public void eat(){
+	
+	
 }
